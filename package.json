@@ -1,0 +1,21 @@
+{
+  "name": "wadi_watcher",
+  "version": "1.0.0",
+  "description": "\"Testing out watcher specs for wadi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anish.george@jlabs.co",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.9.3",
+    "cron": "^1.0.9",
+    "csv": "^0.4.5",
+    "express": "^4.13.0",
+    "googleapis": "^2.0.6",
+    "moment": "^2.10.3",
+    "mongodb": "^2.0.35",
+    "node-schedule": "^0.2.9"
+  }
+}
